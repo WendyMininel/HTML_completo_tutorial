@@ -15,8 +15,11 @@
 > •CSS para estilização básica
 > 
 > •Exemplos práticos de:
+> 
 > -Listas ordenadas/não-ordenadas
+> 
 > -Links e navegação
+> 
 > -Elementos semânticos ('article', 'section', etc.)
 
 <br>
