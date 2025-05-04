@@ -2,6 +2,7 @@
 
 Um projeto criado durante meus primeiros contatos com desenvolvimento web, explorando os fundamentos de HTML e CSS.
 
+
 ✨•O que contém
 •Estrutura HTML completa
 
@@ -18,7 +19,11 @@ Um projeto criado durante meus primeiros contatos com desenvolvimento web, explo
   - Links e navegação
   - Elementos semânticos (`<article>`, `<section>`, etc.)
 
+
 ✨•Tecnologias
+
+
 HTML5
+
 CSS3
 
