@@ -4,10 +4,15 @@ Um projeto criado durante meus primeiros contatos com desenvolvimento web, explo
 
 ✨•O que contém
 •Estrutura HTML completa
+
 •Formulários estilizados
+
 •Tabelas semânticas
+
 •Elementos multimídia (áudio/vídeo)
+
 •CSS para estilização básica
+
 •Exemplos práticos de:
   - Listas ordenadas/não-ordenadas
   - Links e navegação
