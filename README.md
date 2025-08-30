@@ -1,9 +1,9 @@
-## ✨•Meu Primeiro Projeto HTML/CSS
+## ★ Meu Primeiro Projeto HTML/CSS
 >Um projeto criado durante meus primeiros contatos com desenvolvimento web, explorando os fundamentos de HTML e CSS.
 
 <br>
 
-## ✨•O que contém 
+## ⋆ O que contém 
 > •Estrutura HTML completa
 > 
 > •Formulários estilizados
@@ -24,7 +24,7 @@
 
 <br>
 
-## ✨• Tecnologias Utilizadas
+## ⋆ Tecnologias Utilizadas
 > - Visual Studio Code
 > - HTML5
 > - CSS3
