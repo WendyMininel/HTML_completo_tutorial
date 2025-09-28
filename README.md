@@ -1,6 +1,9 @@
->## ★ Link versel - https://primeiro-projeto-html-khaki.vercel.app/
+## ★ Link vercel 
+>https://primeiro-projeto-html-khaki.vercel.app/
+<br>
 
->## ★ Meu Primeiro Projeto HTML/CSS
+
+## ★ Meu Primeiro Projeto HTML/CSS
 >Um projeto criado durante meus primeiros contatos com desenvolvimento web, explorando os fundamentos de HTML e CSS.
 
 <br>
